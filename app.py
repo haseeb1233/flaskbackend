@@ -220,8 +220,6 @@ def get_orders_by_customer():
 
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
 
 
 
